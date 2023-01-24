@@ -79,7 +79,7 @@
 ### :fire: My Stats :
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Obuhov&theme=violet-punch&hide_border=&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=obuhov&theme=violet-punch&hide_border=&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=obuhov&show_icons=true&theme=onedark&hide_border=true&count_private=true)
 
