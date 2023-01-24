@@ -28,7 +28,7 @@
 
 ### :woman_technologist: About Me :
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=77F729&width=700&lines=I+am+a+Programmer%2C+IT+engineer%2C+enthusiast+and+just+a+geek)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=3000&color=77F729&width=700&lines=I+am+a+Programmer%2C+IT+engineer%2C+enthusiast+and+just+a+geek)](https://git.io/typing-svg) 
 
 <!--  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
