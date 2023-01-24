@@ -76,11 +76,23 @@
 
 ---
 
+[![wakatime](https://wakatime.com/badge/user/f7ce1914-d39d-4f90-807b-c98cc176d86a/project/a7617313-4020-4f3b-a102-2b0672cc9cc7.svg)](https://wakatime.com/badge/user/f7ce1914-d39d-4f90-807b-c98cc176d86a/project/a7617313-4020-4f3b-a102-2b0672cc9cc7)
+
+<details>
+  <summary> :hammer_and_wrench: Language Statistics...</summary>
+  <p align = "center">
+    <img src="https://wakatime.com/share/@f7ce1914-d39d-4f90-807b-c98cc176d86a/23ac053b-d1c1-457e-b69e-20968b7aad7b.svg" height='400'/>
+  </p>
+</details>
+
 ### :fire: My Stats :
 
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=obuhov&theme=onedark&hide_border=true)
 ![github stats](https://github-readme-stats.vercel.app/api?username=obuhov&show_icons=true&theme=onedark&hide_border=true&count_private=true)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka--> 
+
 
 ![Codeware Badge](https://www.codewars.com/users/Obuhovv/badges/large)
