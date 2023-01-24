@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif"/>
+</div>
 <!--
 **Obuhov/obuhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
