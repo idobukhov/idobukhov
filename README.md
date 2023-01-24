@@ -81,6 +81,6 @@
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=obuhov&theme=onedark&hide_border=true)
 ![github stats](https://github-readme-stats.vercel.app/api?username=obuhov&show_icons=true&theme=onedark&hide_border=true&count_private=true)
 
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ![Codeware Badge](https://www.codewars.com/users/Obuhovv/badges/large)
