@@ -26,4 +26,3 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_UPDATED_DATE: "True"
-          LOCALE: "en"
