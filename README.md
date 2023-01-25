@@ -87,11 +87,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-137-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-277%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 32 Contributions in the Year 2023
+> 🏆 35 Contributions in the Year 2023
  > 
 > 📦 18.8 kB Used in GitHub's Storage 
  > 
@@ -101,8 +103,18 @@
  > 
 > 🔑 4 Private Repositories  
  > 
+**I Mostly Code in HTML** 
 
- Last Updated on 24/01/2023 23:59:39 UTC
+```text
+HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+Python                   2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+
+```
+
+
+
+ Last Updated on 25/01/2023 00:31:31 UTC
 <!--END_SECTION:waka--> 
 
 
