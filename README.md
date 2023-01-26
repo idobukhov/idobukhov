@@ -18,7 +18,6 @@
     
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=obuhov&style=flat-square&color=blue" alt=""/>
   
   <h1>
     hey there
