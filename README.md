@@ -82,6 +82,13 @@
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=obuhov&theme=onedark&hide_border=true)
 ![github stats](https://github-readme-stats.vercel.app/api?username=obuhov&show_icons=true&theme=onedark&hide_border=true&count_private=true)
 
+### I mostly use
+
+<p align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=obuhov&layout=compact" />
+</p>
+
+### My WakaTime stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2019%20mins-blue)
