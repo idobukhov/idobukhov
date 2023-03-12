@@ -9,7 +9,7 @@
     <a href="https://t.me/Obuhov6">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://discord.gg/qPV7aYMAHf">
+    <a href="https://discord.gg/yQ4eNTx3CS">
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://t.me/Obuhov6">
