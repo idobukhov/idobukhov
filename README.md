@@ -92,7 +92,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 18.9 kB Used in GitHub's Storage 
+> 📦 19.0 kB Used in GitHub's Storage 
  > 
 > 🏆 59 Contributions in the Year 2023
  > 
@@ -116,7 +116,7 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 49 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Python                   43 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 **I Mostly Code in Python** 
