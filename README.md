@@ -86,7 +86,7 @@
 ### :fire: My WakaTime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-792.1%20thousand%20lines%20of%20code-blue)
 
@@ -94,11 +94,11 @@
 
 > 📦 18.9 kB Used in GitHub's Storage 
  > 
-> 🏆 89 Contributions in the Year 2023
+> 🏆 88 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -131,7 +131,7 @@ JavaScript               1 repo              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Obuhov/Obuhov/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/Obukhov-dev/Obukhov-dev/main/assets/bar_graph.png)
 
 
 <!--END_SECTION:waka--> 
