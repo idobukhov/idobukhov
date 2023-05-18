@@ -6,13 +6,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
   <div id="badges">    
-    <a href="https://t.me/Obuhov6">
+    <a href="https://t.me/IObukhov">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://discord.gg/yQ4eNTx3CS">
+    <a href="Obukhov#6666">
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://t.me/Obuhov6">
+    <a href="https://t.me/IObukhov">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
     </a>
     
@@ -79,8 +79,8 @@
 
 ### :fire: My Stats :
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=obuhov&theme=onedark&hide_border=true)
-![github stats](https://github-readme-stats.vercel.app/api?username=obuhov&show_icons=true&theme=onedark&hide_border=true&count_private=true)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Obukhov-dev&theme=onedark&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Obukhov-dev&show_icons=true&theme=onedark&hide_border=true&count_private=true)
 
 
 ### :fire: My WakaTime stats
