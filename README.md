@@ -24,9 +24,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
-  <div align="center">
-  <img src="https://media.giphy.com/media/YeoSN5yZd6S7cl8hSl/giphy.gif" width="800" height="300"/>
-  </div>
+
 </div>
 
 --- 
@@ -75,12 +73,11 @@
 </div>
 
 ---
+  <div align="center">
+  <img src="https://media.giphy.com/media/YeoSN5yZd6S7cl8hSl/giphy.gif" width="800" height="300"/>
+  </div>
 
 
-### :fire: My Stats :
-
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Obukhov-dev&theme=onedark&hide_border=true)
-![github stats](https://github-readme-stats.vercel.app/api?username=Obukhov-dev&show_icons=true&theme=onedark&hide_border=true&count_private=true)
 
 
 ### :fire: My WakaTime stats
