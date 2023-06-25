@@ -6,7 +6,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
   <div id="badges">    
-    <a href="https://t.me/IObukhov">
+    <a href="https://t.me/IDObukhov">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     
