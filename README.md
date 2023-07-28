@@ -19,8 +19,8 @@
   </h1>
   
   <div>
-    <p> Currently, I am a second-year student at Perm Radio-Tech. College, majoring in "Network and System Administration". <br>
-     My goal is to embark on a challenging path of growing from a novice technical specialist to a Dev-Ops/SRE engineer. </p>
+    <p> В настоящее время я студент второго курса Пермского Радиотехнического Колледжа, по специальности "Сетевое и системное администрирование". <br>
+     Моя цель пройти сложный путь роста от системного администратора до инженера Dev-Ops/SRE. </p>
   </div>
   
 
