@@ -46,5 +46,3 @@
 
 ---
 
-
-![Codeware Badge](https://www.codewars.com/users/Obukhovv/badges/large)
